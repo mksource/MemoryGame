@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemoryGame</string>
+    <string name="action_download">Download</string>
+    <string name="action_refresh">Restart</string>
+    <string name="action_forward">Fordward</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image">Image Resource</string>
+    <string name="Start">Start Game</string>
+    <string name="Won">You Have Won!!!</string>
+    <string name="Next">Select Next </string>
+    <string name="Loading">Loading Images...</string>
+    <string name="Correct">Correct!!!</string>
+    <string name="Wrong">Wrong</string>
+    <string name="Blank"> </string>
+</resources>
